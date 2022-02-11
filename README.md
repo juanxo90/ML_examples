@@ -1,2 +1,2 @@
-# ML_examples
+# Examples in python from zero to Machine Learning
 Machine learning execises just for fun...
